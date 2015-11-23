@@ -1,14 +1,5 @@
-//
-//  supportfunc.h
-//  JSONParser_14
-//
-//  Created by 施 笑晨 on 14/12/8.
-//  Copyright (c) 2014年 施 笑晨. All rights reserved.
-//
-
 #ifndef JSONParser_14_supportfunc_h
 #define JSONParser_14_supportfunc_h
-//一些与JSON结构无关的支持函数
 
 int isSpace(char c)
 {
